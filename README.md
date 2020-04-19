@@ -16,6 +16,6 @@ Work done until now:
   1. Scrapped Moneycontrol website and created dataset for financial data [<a href="https://github.com/mahajanhrishikesh/Financial-Document-Sentiment-Analysis/blob/master/Web%20Scrapper%20MoneyControl.ipynb">Web Scrapper MoneyControl.ipynb</a>]
     1.1. [<a href="https://github.com/mahajanhrishikesh/Financial-Document-Sentiment-Analysis/blob/master/MoneyControl-First-1-20-Pages.csv">MoneyControl-First-1-20-Pages.csv</a>] was created by the above notebook
   2. Applied text classification model Support Vector Classifier for Sentiment Analysis [<a href="https://github.com/mahajanhrishikesh/Financial-Document-Sentiment-Analysis/blob/master/Text%20Classification%20Money%20Control.ipynb">Text Classification Money Control.ipynb</a>]
-  3. Applied Sequence Classification with LSTM Model
-    3.1. [<a href="https://github.com/mahajanhrishikesh/Financial-Document-Sentiment-Analysis/blob/master/LSTM%20Sentiment%20Analysis.ipynb">LSTM Sentiment Analysis.ipynb</a>]
+  3. Applied Sequence Classification with LSTM Model [<a href="https://github.com/mahajanhrishikesh/Financial-Document-Sentiment-Analysis/blob/master/LSTM%20Sentiment%20Analysis.ipynb">LSTM Sentiment Analysis.ipynb</a>]
+    3.1. Model Generated [<a href="https://github.com/mahajanhrishikesh/Financial-Document-Sentiment-Analysis/blob/master/money_control_model.h5">money_control_model.h5</a>]
 </pre>
