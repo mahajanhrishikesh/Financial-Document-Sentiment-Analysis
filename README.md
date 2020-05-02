@@ -4,7 +4,7 @@ The modern stock market generates large amounts of data regarding
 specific stocks. Along with this data, the opinion of various
 experts/investors are available freely on the internet. Quantifying the
 general sentiment regarding the stock based on such data will help in
-predicting the trend of the stock price. This can be achieved with the help
+predicting the trend (Bearish/Bullish) of the stock price. This can be achieved with the help
 of several supervised machine learning techniques trained using a corpus
 of positive as well as negative financial news/blogs/reviews. Some of the
 major challenges are identifying the appropriate sources for stock related
