@@ -18,4 +18,5 @@ Work done until now:
   2. Applied text classification model Support Vector Classifier for Sentiment Analysis [<a href="https://github.com/mahajanhrishikesh/Financial-Document-Sentiment-Analysis/blob/master/Text%20Classification%20Money%20Control.ipynb">Text Classification Money Control.ipynb</a>]
   3. Applied Sequence Classification with LSTM Model [<a href="https://github.com/mahajanhrishikesh/Financial-Document-Sentiment-Analysis/blob/master/LSTM%20Sentiment%20Analysis.ipynb">LSTM Sentiment Analysis.ipynb</a>]
     3.1. Model Generated [<a href="https://github.com/mahajanhrishikesh/Financial-Document-Sentiment-Analysis/blob/master/money_control_model.h5">money_control_model.h5</a>]
+  4. Vader Sentiment Analysis
 </pre>
