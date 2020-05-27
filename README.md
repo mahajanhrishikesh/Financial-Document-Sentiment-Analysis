@@ -1,6 +1,6 @@
 # Financial-Document-Sentiment-Analysis
 <h1>Machine Learning Techniques for Financial Sentiment Analysis </h1>
-The modern stock market generates large amounts of data regarding
+The modern stock market generates large amounts of numerical data regarding
 specific stocks. Along with this data, the opinion of various
 experts/investors are available freely on the internet. Quantifying the
 general sentiment regarding the stock based on such data will help in
